@@ -1,0 +1,22 @@
+h1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+}
+.player-info{
+    border: 2px solid gold;
+    width:80%;
+    margin:0px auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color:teal
+}
+.cart{
+    display:flex;
+}
+.cart img{
+    width:50%;
+    height:50%;
+    border: 2px solid gold
+}

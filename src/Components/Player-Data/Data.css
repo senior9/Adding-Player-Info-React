@@ -1,0 +1,12 @@
+.player-data{
+    display:flex;
+    
+}
+.player-container{
+ width:70%;
+ margin: 20px;
+ border-right: 1px solid red;
+}
+.cart-container{
+    margin-left:20px;
+}

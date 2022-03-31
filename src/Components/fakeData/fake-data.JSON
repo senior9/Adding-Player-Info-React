@@ -1,0 +1,230 @@
+[
+    {
+    
+        "id": 1,
+        "first_name": "Sakib-Al-Hasan",
+        "avatar": "https://www.crictracker.com/wp-content/uploads/2019/10/Shakib-Al-Hasan-1-1.jpg",
+        "gender": "Male",
+        "JersyNumber":"75",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Captain",
+          "city": "Dhanmondi",
+          "zip_code": "1207",
+          "state": "Dhaka",
+          "country": "Bangladesh"
+    },
+    {
+    
+        "id": 2,
+        "first_name": "Musfiq",
+        "avatar": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+        "gender": "Male",
+        "JersyNumber":"15",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Vice-Captain",
+          "city": "Dhanmondi",
+          "zip_code": "1207",
+          "state": "Dhaka",
+          "country": "Bangladesh"
+    },
+    {
+    
+        "id": 3,
+        "first_name": "Rohit-Sharma",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-h3eYPWdB13mRIhSg626nvhUjXLrmPw4Fvg&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"100",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Vice-Captain",
+          "city": "Mumbai",
+          "zip_code": "1207",
+          "state": "Delhi",
+          "country": "India"
+    },
+    {
+    
+        "id": 4,
+        "first_name": "Ms-Dhoni",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuys1s-d6lgPZRmDGes51Ma-lUlTvg21Qhig&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"50",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Captain",
+          "city": "Chennai",
+          "zip_code": "1207",
+          "state": "Chennai",
+          "country": "India"
+    },
+    {
+    
+        "id": 5,
+        "first_name": "Raina",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP7k8vaWW-LdFSTJ36aK-o5eT2rXvnFHsXA&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"65",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Left-Hannd-Batman",
+          "city": "Delhi",
+          "zip_code": "1207",
+          "state": "Delhi",
+          "country": "India"
+    },
+    {
+    
+        "id": 6,
+        "first_name": "Steven-Smith",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kTnQUGK4GHQzKI95aN7ruTNtpSOyZHJfnw&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"13",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Captain",
+          "city": "Sydney",
+          "zip_code": "4885",
+          "state": "Sydney",
+          "country": "Australia"
+    },
+    {
+    
+        "id": 7,
+        "first_name": "DJ-Bravo",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-h3eYPWdB13mRIhSg626nvhUjXLrmPw4Fvg&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"84",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Baller",
+          "city": "Windies",
+          "zip_code": "1516",
+          "state": "Windies",
+          "country": "Windies"
+    },
+    {
+    
+        "id": 8,
+        "first_name": "Warner",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwRjaK4BV_B39barnw3jzNdwDU6LBdX3h7g&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"40",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Batsman",
+          "city": "Sydney",
+          "zip_code": "8507",
+          "state": "Sydney",
+          "country": "Australia"
+    },
+    {
+    
+        "id": 9,
+        "first_name": "Mostafiz",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5h6Oz3GS6UjWTXukjk_ajUYOaSLi5Tlk_w&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"25",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Crickter",
+          "key_skill": "Left-Hannd-Baller",
+          "city": "Dhaka",
+          "zip_code": "1207",
+          "state": "Dhaka",
+          "country": "Bangladesh"
+    },
+    {
+    
+        "id": 10,
+        "first_name": "Riki-ponting",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWCOuD1P4D-nvHY_Akxo44WN84NkWgHJuoXQ&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"222",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Captain",
+          "city": "Sydney",
+          "zip_code": "4885",
+          "state": "Sydney",
+          "country": "Australia"
+    },
+    {
+    
+        "id": 11,
+        "first_name": "Polard",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgJgkdqAugsgi8ZGbno5CNh0uDhApUtcGPA&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"444",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "All-Rounder",
+          "city": "Windies",
+          "zip_code": "48521",
+          "state": "Windies",
+          "country": "Windies"
+    },
+    {
+    
+        "id": 12,
+        "first_name": "Afridi",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhJKEmQGOZpF24-X9TV3O93qtcAaeg2R_dw&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"10",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "All-Rounder",
+          "city": "Korachi",
+          "zip_code": "75607",
+          "state": "Korachi",
+          "country": "Pakistan"
+    },{
+    
+        "id": 13,
+        "first_name": "Hetmyer",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjfHSbM0spEvegiVReoplyXutCwkZXo69WQ&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"127",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "All-Rounder",
+          "city": "Windies",
+          "zip_code": "48521",
+          "state": "Windies",
+          "country": "Windies"
+    },
+    {
+    
+        "id": 14,
+        "first_name": "Soaib_Malik",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSuBElAkI4orBeXi1UhQcHBC-oargpGSNbQ&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"40",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "All-Rounder",
+          "city": "Korachi",
+          "zip_code": "75607",
+          "state": "Korachi",
+          "country": "Pakistan"
+    },{
+    
+        "id": 15,
+        "first_name": "Cris-Gyle",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMybKMw7UbPoxP4iOY4l_-VSB0x-do4US7g&usqp=CAU",
+        "gender": "Male",
+        "JersyNumber":"333",
+        "phone_number": "+46 765-351-7002 x8053",
+          "title": "Cricketer",
+          "key_skill": "Batsman",
+          "city": "Windies",
+          "zip_code": "48521",
+          "state": "Windies",
+          "country": "Windies"
+    }
+
+    
+
+]
+    
+    
